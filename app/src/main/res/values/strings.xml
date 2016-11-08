@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">CustomAdapter</string>
+
+    <string-array name="pics">
+        <item>Puppy</item>
+        <item>Cat</item>
+        <item>Beer</item>
+        <item>Lion</item>
+        <item>Chick</item>
+        <item>Owl</item>
+        <item>Finch</item>
+        <item>Panda</item>
+        <item>Squirrel</item>
+        <item>Hamster</item>
+    </string-array>
+
+    <string-array name="subTitles">
+        <item>some puppies </item>
+        <item>cats are </item>
+        <item>bears are mammals of the family Ursidae</item>
+        <item>lion (Panthera leo) is one of the big cats</item>
+        <item>chick is a bird that has not yet reached adulthood</item>
+        <item>owls are birds from the order Strigiformes</item>
+        <item>finches are small to medium-sized </item>
+        <item>black and white cat-foot</item>
+        <item>squirrels are members of the family Sciuridae</item>
+        <item>Hamsters are rodents belonging to the subfamily Cricetinae</item>
+    </string-array>
+
+    <string-array name="urls">
+        <item>android.resource://com.example.ruaasamara.customadapter/drawable/puppy</item>
+        <item>android.resource://com.example.ruaasamara.customadapter/drawable/cat</item>
+        <item>android.resource://com.example.ruaasamara.customadapter/drawable/beer</item>
+        <item>android.resource://com.example.ruaasamara.customadapter/drawable/lion</item>
+        <item>android.resource://com.example.ruaasamara.customadapter/drawable/chick</item>
+        <item>android.resource://com.example.ruaasamara.customadapter/drawable/owl</item>
+        <item>android.resource://com.example.ruaasamara.customadapter/drawable/finch</item>
+        <item>android.resource://com.example.ruaasamara.customadapter/drawable/panda</item>
+        <item>android.resource://com.example.ruaasamara.customadapter/drawable/squirrel</item>
+        <item>android.resource://com.example.ruaasamara.customadapter/drawable/hamster</item>
+    </string-array>
+
+
+</resources>
